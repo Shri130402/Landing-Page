@@ -1,0 +1,25 @@
+p{
+        font-size: 20px;
+        align-items: center;
+}
+
+.btn{
+        font-family: "Roboto",sans-serif;
+        font-size: 30px;
+        background:magenta;
+        width: 100px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        align-content : center;
+        color: white;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+.btn:hover{
+        background-color: black;
+        color: white;
+        transition: .5s;
+        cursor: pointer;
+    }
